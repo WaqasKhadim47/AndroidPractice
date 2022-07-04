@@ -3,10 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_binding_fragment_example.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_bottom_navigation_screen.xml" value="0.20572916666666666" />
         <entry key="app/src/main/res/layout/activity_login_screen.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.11333333333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/layout/fragment_view.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.2046875" />
         <entry key="app/src/main/res/layout/item.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/post_item.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/setting_fragment.xml" value="0.2046875" />
         <entry key="app/src/main/res/layout/userlist.xml" value="0.7756892230576441" />
+        <entry key="app/src/main/res/layout/view_fragment.xml" value="0.2046875" />
+        <entry key="app/src/main/res/menu/nav_item.xml" value="0.2046875" />
       </map>
     </option>
   </component>

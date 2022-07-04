@@ -1,5 +1,6 @@
 package com.example.mypracticeapp
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -37,7 +38,10 @@ class LoginScreen : AppCompatActivity(), View.OnClickListener {
     override fun onClick(view: View?) {
         when (view?.id) {
             R.id.login -> {
-                println("Click =====> Login Button clicked")            }
+                println("Click =====> Login Button clicked")
+                val intent = Intent(this,BottomNavigationScreen::class.java)
+                //intent.putExtra("position", "position");
+                this.startActivity(intent)}
             R.id.forgotPassword -> {
                 println("Click =====> Forgot Password Button clicked") }
             R.id.signup -> {
